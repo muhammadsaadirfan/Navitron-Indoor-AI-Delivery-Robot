@@ -133,7 +133,7 @@ The **Navitron** isn't just another mobile robot a complete educational ecosyste
                            │          │                      ▼                    │
                            │          ▼               ┌───────────────┐           │
                            │     ┌────────────┐       │Navigation Cmds│───────────┘
-                           │     │   Arduino  │◄──────│   (cmd_vel)   │
+                           │     │   STM32    │◄──────│   (cmd_vel)   │
                            │     └────┬───────┘       └───────────────┘
                            │          ▼
                            │     ┌─────────────┐
