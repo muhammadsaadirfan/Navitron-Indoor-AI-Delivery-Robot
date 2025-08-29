@@ -163,8 +163,10 @@ Thank you for exploring this project. I hope this educational mobile robot empow
 
 If you have **any suggestions, feedback, or improvements**, feel free to open an issue or reach out to me directly. Collaboration and learning go hand in hand, and I'd love to hear from you!
 
----
+View project details on LinkedIn:  
+https://www.linkedin.com/posts/muhammad-saad-irfan_navitron-extremeroboticstesting-ros-activity-7336042995940528128-gcyA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEaCBx4BwPxrXkGLUEZO_Q7QODTfpKU4I6M
 
+---
 ## 👤 About the Author
 
 **Muhammad Saad**  
