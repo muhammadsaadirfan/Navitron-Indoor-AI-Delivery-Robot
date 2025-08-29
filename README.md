@@ -73,7 +73,7 @@ The **Navitron** isn't just another mobile robot a complete educational ecosyste
 | **Intel Realsense D435** | 1 | Drives two DC motors with current protection | $500 |
 | **Encoder Motors (2x)** | 2 | DC motors with built-in encoders for odometry | $40 |
 | **RPLIDAR A1M8** | 1 | 360° laser scanner for navigation | $99 |
-| **Battery Pack (7.4V LiPo)** | 1 | Power supply for entire system | $30 |
+| **Battery Pack (40 V LiPo)** | 1 | Power supply for entire system | $30 |
 | **Robot Chassis Kit** | 1 | Mechanical platform and wheels | $100 |
 | **Jumper Wires & Connectors** | 1 set | Electrical connections | $3 |
 
