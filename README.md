@@ -159,7 +159,7 @@ The **Navitron** isn't just another mobile robot a complete educational ecosyste
 
 ## 🙏 Thank You!
 
-Thank you for exploring this project. I hope this educational mobile robot empowers you to dive deeper into robotics, hands-on learning, and real-world system integration. Your interest and dedication to building robots is what drives innovation in this field.
+Thank you for exploring this project. 
 
 If you have **any suggestions, feedback, or improvements**, feel free to open an issue or reach out to me directly. Collaboration and learning go hand in hand, and I'd love to hear from you!
 
